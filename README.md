@@ -1,6 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Perfect 👍 Here's a complete, well-structured, ATS- and GitHub-friendly README.md file for your project — “Intelligent Document Search and Retrieval System” — written in a professional portfolio style, consistent with your other project READMEs:
 
 🧠 Intelligent Document Search and Retrieval System
 Tech Stack: Python · SQL · FastAPI · Hugging Face · REST API
